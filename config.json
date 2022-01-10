@@ -1,8 +1,8 @@
 {
-    "TOKEN_DISCORD": "ODkzMTI2ODU2ODg1MzA1NTA1.YVW7NA.1tu0im_YPNb9Upl-gqST2rnmQ7c",
+    "TOKEN_DISCORD": "UM TOKEN",
     "GOOGLE_KEY": "OUTRO TOKEN",
     "PREFIX": "-",
     "YTDL":{
-        "filter": ""
+        "filter": "audioonly"
     }
 }
